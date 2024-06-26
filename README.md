@@ -1,2 +1,3 @@
 # First_gitHub
-this is my first GitHub repository
+This is my first GitHub repository
+Author- Ayush Raushan
